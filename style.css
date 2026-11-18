@@ -1,0 +1,5 @@
+:root{color-scheme:light dark}
+body{font:17px/1.6 -apple-system,system-ui,sans-serif;max-width:680px;margin:0 auto;padding:32px 20px;background:#07110b;color:#eaf5ec}
+h1{font-size:30px;margin:0 0 4px}h2{font-size:20px;margin-top:28px}
+a{color:#5cf07a}.muted{color:#9db7a3;font-size:15px}
+nav{margin:8px 0 24px}nav a{margin-right:16px}
